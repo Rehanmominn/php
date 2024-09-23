@@ -7,5 +7,9 @@
 </head>
 <body>
     <p>fgcf hghbvg</P>
+    <?php 
+    $usename = "chal";
+    echo $username;
+    ?>
 </body>
 </html>
